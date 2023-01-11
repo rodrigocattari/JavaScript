@@ -1,0 +1,12 @@
+// Cria um repositorio
+//     git init
+// Mostra o status
+//     Git status
+// Associar o repositario a maquina
+//     git remote add origin "Link do repositorio"
+// Adciona todos os arquivos para o repositorio
+//     git add .
+// Adciona uma mendagem ao commit
+//     git commit -m "Escreva a mensagem"
+// Envia os arquivos para o repositorio
+//     git push origin master
